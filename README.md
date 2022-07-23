@@ -35,7 +35,7 @@
 ---
   
 ### :fire: My Stats : 
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=lerontonge&theme=highcontrast&date_format=j%20M%5B%20Y%5D&ring=7B00C2)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lerontonge&theme=highcontrast)](https://git.io/streak-stats)
 ---
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lerontonge&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
