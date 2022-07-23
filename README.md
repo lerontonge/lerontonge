@@ -1,15 +1,6 @@
-
-
-
-<div id="badges" align="center">
+<div id="greeting" align="center">
   
-  <a href="https://www.linkedin.com/in/lerontonge">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-
-  <a href="https://twitter.com/UnderpaidDev">
-  <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-</a>
+ 
 
  
 ## Hi there 👋. Welcome to where I code stuff.
@@ -36,6 +27,19 @@
 ---
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lerontonge&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
+</div>
+
+---
+
+<div id="badges" align="center">
+  
+  <a href="https://www.linkedin.com/in/lerontonge">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+
+  <a href="https://twitter.com/UnderpaidDev">
+  <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+</a>
 </div>
 
 
