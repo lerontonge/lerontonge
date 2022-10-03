@@ -4,6 +4,10 @@
 
  
 ## Hi there 👋. Welcome to where I code stuff.
+### Currently:
+  -Learning the ins-and-outs of various languages. 
+  
+  -On the FreeCodeCamp grind.
 
 ---
 
