@@ -5,12 +5,11 @@
  
 ## Hi there 👋. Welcome to where I code stuff.
 ## BSc(Hons) - Computer Science & Data Communication 
+### Experience: Networking, Web Development, Hardware Tech Support, Linux Servers, MacOS, Windows, Linux OS - Debian, Arch
 ### Currently:
-  - Self Taught
+  - Self Taught WebDev
   
-  -Learning the ins-and-outs of various languages. 
-  
-  -On the FreeCodeCamp grind.
+  -Learning the ins-and-outs of various languages: Python for Data Science. Haskell for functional programming. 
 
 ---
 
