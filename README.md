@@ -6,11 +6,11 @@
 ## Hi there 👋. Welcome to where I code stuff.
 ## BSc(Hons) - Computer Science & Data Communication 
 ### Experience: 
-  Networking, Web Development, Hardware Tech Support, Linux Servers, MacOS, Windows, Linux OS - Debian, Arch
+  Networking, Web Development, Cyber Security, Hardware Tech Support, Linux Servers, MacOS, Windows, Windows Server, Linux OS: Debian, Arch
 ### Currently:
-  -Self Taught WebDev
+  -Self Taught Progammer 
   
-  -Learning the ins-and-outs of various languages: Python for Data Science. Haskell for functional programming. 
+  -Learning the ins-and-outs of various languages: Python for Data Science. Haskell for functional programming, Javascript for webapp development
 
 ---
 
