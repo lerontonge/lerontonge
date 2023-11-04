@@ -8,10 +8,9 @@
 ### Experience: 
   Networking, Web Development, Cyber Security, Hardware Tech Support, Linux Servers, MacOS, Windows, Windows Server, Linux OS: Debian, Arch
 ### Currently:
-  -Self Taught Progammer 
+  -Self Taught Programmer 
   
-  -Learning the ins-and-outs of various languages: Python for Data Science. Haskell for functional programming, Javascript for webapp development
-
+  -Learning the ins and outs of various languages: Python for Data Science. Haskell for functional programming, Javascript for webapp development
 ---
 
 ### :hammer_and_wrench: Languages and Tools : 
